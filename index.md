@@ -38,7 +38,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
 
-<div style="text-align: justify">This project focuses on automating the collection of agricultural market data at scale. The pipeline runs on scheduled workflows and has executed over 14,000 times, handling data ingestion, transformation, and storage in BigQuery. It provides a reliable foundation for tracking market price trends across regions and over time.</div>
+<div style="text-align: justify">Market price data is only useful if it’s consistent and up to date. To solve this, I set up an automated pipeline that continuously collects, processes, and stores agricultural market data in BigQuery. With over 14,000 scheduled runs, the system provides a reliable foundation for tracking price trends across regions over time.</div>
 <br>
 <center><img src="images/credit-risk-webapp.png"/></center>
 <br>
@@ -49,7 +49,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
 
-<div style="text-align: justify">To better understand Kenya’s housing market, I set up a scheduled data collection system using Kaggle notebooks to scrape property listings from Property24. The pipeline continuously gathers structured data across Nairobi and Mombasa, making it possible to analyze pricing patterns, property features, and location-based differences in real estate.  </div>
+<div style="text-align: justify">Understanding Kenya’s housing market requires consistent and structured data, which is not always readily available. To address this, I built a scheduled scraping pipeline using Kaggle notebooks to collect property listings from Property24 across Nairobi and Mombasa, enabling analysis of pricing patterns and location-based differences in the market.</div>
 <br>
 <center><img src="images/ames-house-price.jpg"/></center>
 <br>
@@ -60,13 +60,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
 
-<div style="text-align: justify">Here, the focus was on collecting both product-level data and customer feedback at scale. Using asynchronous scraping, the system processes thousands of products efficiently, capturing details like prices, discounts, stock status, delivery information, and brand data.
-
-On the storage side, a PostgreSQL pipeline handles batch inserts and ensures only meaningful changes are recorded, making it easy to track how product attributes evolve over time.
-
-I also extended the pipeline to pull customer reviews — including ratings, review text, dates, and customer details — opening the door to analyzing sentiment, customer satisfaction, and how pricing influences perception.
-
-Together, this creates a dataset that connects what sellers do (pricing, discounts) with how customers respond.  </div>
+<div style="text-align: justify">E-commerce data changes quickly, but tracking those changes over time is not straightforward. To solve this, I developed an asynchronous scraping pipeline that collects product data from Jumia at scale, storing it in PostgreSQL with logic to capture only meaningful updates in prices, discounts, and availability. To better understand customer behavior, I extended the pipeline to also collect product reviews — including ratings, text, and timestamps — making it possible to connect pricing decisions with customer feedback and sentiment over time.    </div>
 <br>
 <center><img src="images/breast-cancer.png"/></center>
 <br>
