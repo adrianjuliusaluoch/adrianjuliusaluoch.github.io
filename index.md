@@ -38,7 +38,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 
 <div style="text-align: justify">Market price data is only useful if it’s consistent and up to date. To solve this, I set up an automated pipeline that continuously collects, processes, and stores agricultural market data in BigQuery. With over 14,000 scheduled runs, the system provides a reliable foundation for tracking price trends across regions over time.</div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/workflows.png"/></center>
 <br>
 
 ---
@@ -58,7 +58,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 
 <div style="text-align: justify">E-commerce data changes quickly, but tracking those changes over time is not straightforward. To solve this, I developed an asynchronous scraping pipeline that collects product data from Jumia at scale, storing it in PostgreSQL with logic to capture only meaningful updates in prices, discounts, and availability. To better understand customer behavior, I extended the pipeline to also collect product reviews — including ratings, text, and timestamps — making it possible to connect pricing decisions with customer feedback and sentiment over time.    </div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><img src="images/jumia.png"/></center>
 <br>
 
 ---
