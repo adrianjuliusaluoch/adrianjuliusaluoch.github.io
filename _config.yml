@@ -1,0 +1,20 @@
+title: <p align="center"> Adrian Julius Aluoch </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/adrianjuliusaluoch/">LinkedIn</a> |
+  <a href="https://github.com/adrianjuliusaluoch">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I'm a data analyst with a strong foundation in statistics and programming'.
+  <br><br>
+  My work focuses on building data pipelines, analyzing economic datasets, and developing machine learning models to extract meaningful insights from complex data.
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-145578661-1 # Google Analytics tracking ID
