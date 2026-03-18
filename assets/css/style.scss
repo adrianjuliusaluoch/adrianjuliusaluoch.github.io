@@ -1,19 +1,22 @@
---- --- @import "jekyll-theme-minimal";
+---
+---
+
+@import "jekyll-theme-minimal";
 
 /* Center the title */
 .site-title {
-    text-align: center;
-    display: block;
-    width: 100%;
+  text-align: center;
+  display: block;
+  width: 100%;
 }
 
 /* Center logo */
 .site-logo {
-    display: block;
-    margin: 0 auto;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Center description text */
 .site-description {
-    text-align: center;
+  text-align: center;
 }
