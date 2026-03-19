@@ -1,4 +1,4 @@
-# Portfolio
+# Still In Progress
 ---
 ## Economic & Market Analysis
 
@@ -8,7 +8,7 @@ The problem is simple: families are struggling with rising food costs, and it’
 
 [![View on RPubs](https://img.shields.io/badge/RPubs-View_on_RPubs-276DC3?logo=r&logoColor=white)](https://rpubs.com/adrianjuliusaluoch/cost_of_foods_in_kenya)
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/food.png"/></center>
 
 ---
 ### How Can Families Cut Maize Flour Costs?
