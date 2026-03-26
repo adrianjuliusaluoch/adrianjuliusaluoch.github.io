@@ -17,7 +17,7 @@ Maize is a staple food in Kenya, forming the foundation of daily meals for milli
 
 [![View on RPubs](https://img.shields.io/badge/RPubs-View_on_RPubs-276DC3?logo=r&logoColor=white)](https://rpubs.com/adrianjuliusaluoch/saving-on-maize-flour)
 
-<center><img src="images/BERT-classification.png"/></center>
+<center><img src="images/maize.png"/></center>
 
 ---
 ### Can Kenyan Maize Farmers Afford DAP Fertilizer This Season?
