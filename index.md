@@ -73,9 +73,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 <div style="text-align: justify">Besides building data projects, I enjoy writing data stories that explain real-world trends using data. Through these articles I explore topics like food prices, agriculture, household costs, and market trends in Kenya, translating data analysis into insights that anyone can understand.</div>
 <br>
 
-- [How I Built a Data Pipeline That Ran 14,000+ Automated Workflows](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [Detecting Suspicious M-PESA Transactions Using Time Series Decomposition](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [Is Milling Maize Cheaper Than Buying Flour?](https://www.youtube.com/watch?v=YdXufiebgyc)
+- [What are Kenyans searching — and actually watching — online?](https://medium.com/@adrianjuliusaluoch/what-are-kenyans-searching-and-actually-watching-online-36f3f16ce13c)
 - [How Food Prices Changed in Kenya (2024–2025)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
 
 ---
