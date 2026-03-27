@@ -1,6 +1,6 @@
 # Portfolio
 ---
-<h2 style="margin-bottom: 1;">Market Insights</h2>
+<h2 style="margin-bottom: 0;">Market Insights</h2>
 <p style="margin-top: 3px; font-size: 14px; color: #666;">
   Analyzing price trends and market dynamics using real-world datasets
 </p>
