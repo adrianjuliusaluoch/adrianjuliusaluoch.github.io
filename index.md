@@ -39,7 +39,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 [![View Dataset on Kaggle](https://img.shields.io/badge/Kaggle-View_Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/adrianjuliusaluoch/global-food-prices)
 
 <br>
-<center><img src="images/KAMIS.png"/></center>
+<center><img src="images/kamis.png"/></center>
 <br>
 
 ---
