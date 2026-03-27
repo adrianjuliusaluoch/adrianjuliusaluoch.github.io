@@ -97,7 +97,7 @@ E-commerce data changes quickly, but tracking those changes over time is not str
 
 <div style="text-align: justify; margin-top: 8px;">Besides building data projects, I enjoy writing data stories that explain real-world trends using data. Through these articles I explore topics like food prices, agriculture, household costs, and market trends in Kenya, translating data analysis into insights that anyone can understand.</div>
 
-<ul style="margin-top: 1;">
+<ul style="margin-top:8px;">
   <li><a href="https://medium.com/@adrianjuliusaluoch/what-are-kenyans-searching-and-actually-watching-online-36f3f16ce13c">What are Kenyans searching — and actually watching — online?</a></li>
   <li><a href="https://medium.com/@adrianjuliusaluoch/part-1-setting-the-stage-introducing-the-data-and-objectives-0840c54f0c66">How I Analyzed Armed Conflicts Using an End-to-End Data Pipeline</a></li>
 </ul>
