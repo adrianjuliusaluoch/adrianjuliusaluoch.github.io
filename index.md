@@ -38,7 +38,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
   Building reliable data flows for tracking prices, listings, and consumer behavior
 </p>
 
-<h3 style="margin-bottom: 4px;">
+<h3 style="margin-bottom: 8px;">
   Tracking Price Trends Across Markets
 </h3>
 
@@ -52,7 +52,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 
 ---
 
-<h3 style="margin-bottom: 4px;">
+<h3 style="margin-bottom: 8px;">
   Tracking Housing Prices Across Kenyan Cities
 </h3>
 
@@ -65,7 +65,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 <br>
 
 ---
-<h3 style="margin-bottom: 4px;">
+<h3 style="margin-bottom: 8px;">
   Tracking Product Prices and Customer Sentiment
 </h3>
 
