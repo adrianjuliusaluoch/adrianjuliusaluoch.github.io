@@ -48,7 +48,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 
 <div style="text-align: justify">Understanding Kenya’s housing market requires consistent and structured data, which is not always readily available. To address this, I built a scheduled scraping pipeline using Kaggle notebooks to collect property listings from Property24 across Nairobi and Mombasa, enabling analysis of pricing patterns and location-based differences in the market.</div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/property.png"/></center>
 <br>
 
 ---
