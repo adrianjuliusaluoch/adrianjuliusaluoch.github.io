@@ -1,7 +1,9 @@
 # Portfolio
 ---
-## Market Insights
-Exploratory & statistical analysis on real-world datasets
+<h2 style="margin-bottom: 0;">Market Insights</h2>
+<p style="margin-top: 2px; font-size: 14px; color: #666;">
+  Analyzing price trends and market dynamics using real-world datasets
+</p>
 
 ### How the cost of food has changed in Kenya
 
@@ -70,8 +72,10 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 
 ---
 
-## Writing
-Data storytelling & insights for broad audiences
+<h2 style="margin-bottom: 0;">Writing</h2>
+<p style="margin-top: 2px; font-size: 14px; color: #666;">
+  Turning data analysis into clear, actionable stories
+</p>
 
 [![Read My Articles](https://img.shields.io/badge/Medium-Read_My_Articles-black?logo=medium&logoColor=white)](https://medium.com/@adrianjuliusaluoch)
 
