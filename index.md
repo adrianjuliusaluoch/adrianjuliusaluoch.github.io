@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## Economic & Market Analysis
+## Market Insights
 
 ### How the cost of food has changed in Kenya
 
@@ -30,7 +30,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 
 ---
 
-## Data Engineering & Automation
+## Data Pipelines
 
 ### Agricultural Market Data Pipeline (14k+ Workflow Runs)
 
@@ -66,7 +66,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 
 ---
 
-## Blogs
+## Writing
 
 [![Read My Articles](https://img.shields.io/badge/Medium-Read_My_Articles-black?logo=medium&logoColor=white)](https://medium.com/@adrianjuliusaluoch)
 
