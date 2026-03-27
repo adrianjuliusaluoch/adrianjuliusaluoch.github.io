@@ -9,11 +9,11 @@ description: |
   <a href="https://github.com/adrianjuliusaluoch">GitHub</a>
   </p>
 
-  <p style="text-align: left;">
+  <p style="text-align: justify; hyphens: auto; margin-bottom: 8px;">
   I'm a data analyst with a strong foundation in statistics and programming.
   </p>
 
-  <p style="text-align: left;">
+  <p style="text-align: justify; hyphens: auto; margin-top: 0;">
   My work focuses on building data pipelines, analyzing datasets, and developing machine learning models to extract meaningful insights from complex data.
   </p>
 
