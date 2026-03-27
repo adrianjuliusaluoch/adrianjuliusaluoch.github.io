@@ -38,7 +38,9 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
   Building reliable data flows for tracking prices, listings, and consumer behavior
 </p>
 
-### Tracking Price Trends Across Markets
+<h3 style="margin-bottom: 4px;">
+  Tracking Price Trends Across Markets
+</h3>
 
 <div style="text-align: justify; margin-top: 0;">Market price data is only useful if it’s consistent and up to date. To solve this, I set up an automated pipeline that continuously collects, processes, and stores agricultural market data in BigQuery. With over 17,000 scheduled runs, the system provides a reliable foundation for tracking price trends across regions over time.</div>
 
@@ -49,7 +51,10 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 <br>
 
 ---
-### Tracking Housing Prices Across Kenyan Cities
+
+<h3 style="margin-bottom: 4px;">
+  Tracking Housing Prices Across Kenyan Cities
+</h3>
 
 <div style="text-align: justify; margin-top: 0;">Understanding Kenya’s housing market requires consistent and structured data, which is not always readily available. To address this, I built a scheduled scraping pipeline using Kaggle notebooks to collect property listings from Property24 across Nairobi and Mombasa, enabling analysis of pricing patterns and location-based differences in the market.</div>
 
