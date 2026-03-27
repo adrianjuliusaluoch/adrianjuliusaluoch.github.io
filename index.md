@@ -90,7 +90,7 @@ E-commerce data changes quickly, but tracking those changes over time is not str
 
 [![Read My Articles](https://img.shields.io/badge/Medium-Read_My_Articles-black?logo=medium&logoColor=white)](https://medium.com/@adrianjuliusaluoch)
 
-<div style="text-align: justify; margin-top: 8px;">Besides building data projects, I enjoy writing data stories that explain real-world trends using data. Through these articles I explore topics like food prices, agriculture, household costs, and market trends in Kenya, translating data analysis into insights that anyone can understand.</div>
+<div style="text-align: justify; margin-top: 4px;">Besides building data projects, I enjoy writing data stories that explain real-world trends using data. Through these articles I explore topics like food prices, agriculture, household costs, and market trends in Kenya, translating data analysis into insights that anyone can understand.</div>
 
 <ul style="margin-top:4px;">
   <li><a href="https://medium.com/@adrianjuliusaluoch/what-are-kenyans-searching-and-actually-watching-online-36f3f16ce13c">What are Kenyans searching — and actually watching — online?</a></li>
