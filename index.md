@@ -88,7 +88,12 @@ E-commerce data changes quickly, but tracking those changes over time is not str
   Turning data analysis into clear, actionable stories
 </p>
 
-[![Read My Articles](https://img.shields.io/badge/Medium-Read_My_Articles-black?logo=medium&logoColor=white)](https://medium.com/@adrianjuliusaluoch)
+<div style="margin: 8px 0;">
+  <a href="https://medium.com/@adrianjuliusaluoch">
+    <img src="https://img.shields.io/badge/Medium-Read_My_Articles-black?logo=medium&logoColor=white" />
+  </a>
+</div>
+<!-- [![Read My Articles](https://img.shields.io/badge/Medium-Read_My_Articles-black?logo=medium&logoColor=white)](https://medium.com/@adrianjuliusaluoch) -->
 
 <div style="text-align: justify">Besides building data projects, I enjoy writing data stories that explain real-world trends using data. Through these articles I explore topics like food prices, agriculture, household costs, and market trends in Kenya, translating data analysis into insights that anyone can understand.</div>
 <br>
