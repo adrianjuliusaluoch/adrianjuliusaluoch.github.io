@@ -1,7 +1,7 @@
 # Portfolio
 ---
-<h2 style="margin-bottom: 0;">Market Insights</h2>
-<p style="margin-top: 2px; font-size: 14px; color: #666;">
+<h2 style="margin-bottom: 1;">Market Insights</h2>
+<p style="margin-top: 3px; font-size: 14px; color: #666;">
   Analyzing price trends and market dynamics using real-world datasets
 </p>
 
@@ -33,8 +33,8 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 
 ---
 
-<h2 style="margin-bottom: 0;">Data Pipelines</h2>
-<p style="margin-top: 2px; font-size: 14px; color: #666;">
+<h2 style="margin-bottom: 1;">Data Pipelines</h2>
+<p style="margin-top: 3px; font-size: 14px; color: #666;">
   Building reliable data flows for tracking prices, listings, and consumer behavior
 </p>
 
@@ -72,8 +72,8 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 
 ---
 
-<h2 style="margin-bottom: 0;">Writing</h2>
-<p style="margin-top: 2px; font-size: 14px; color: #666;">
+<h2 style="margin-bottom: 1;">Writing</h2>
+<p style="margin-top: 3px; font-size: 14px; color: #666;">
   Turning data analysis into clear, actionable stories
 </p>
 
