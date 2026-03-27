@@ -96,9 +96,11 @@ E-commerce data changes quickly, but tracking those changes over time is not str
 <!-- [![Read My Articles](https://img.shields.io/badge/Medium-Read_My_Articles-black?logo=medium&logoColor=white)](https://medium.com/@adrianjuliusaluoch) -->
 
 <div style="text-align: justify">Besides building data projects, I enjoy writing data stories that explain real-world trends using data. Through these articles I explore topics like food prices, agriculture, household costs, and market trends in Kenya, translating data analysis into insights that anyone can understand.</div>
-<br>
-- [What are Kenyans searching — and actually watching — online?](https://medium.com/@adrianjuliusaluoch/what-are-kenyans-searching-and-actually-watching-online-36f3f16ce13c)
-- [How I Analyzed Armed Conflicts Using an End-to-End Data Pipeline](https://medium.com/@adrianjuliusaluoch/part-1-setting-the-stage-introducing-the-data-and-objectives-0840c54f0c66)
+
+<ul style="margin-top: 1;">
+  <li><a href="https://medium.com/@adrianjuliusaluoch/what-are-kenyans-searching-and-actually-watching-online-36f3f16ce13c">What are Kenyans searching — and actually watching — online?</a></li>
+  <li><a href="https://medium.com/@adrianjuliusaluoch/part-1-setting-the-stage-introducing-the-data-and-objectives-0840c54f0c66">How I Analyzed Armed Conflicts Using an End-to-End Data Pipeline</a></li>
+</ul>
 
 ---
 <center>© 2026 Adrian Julius Aluoch. Powered by Jekyll and the Minimal Theme.</center>
