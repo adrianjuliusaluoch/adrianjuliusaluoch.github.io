@@ -88,7 +88,7 @@ E-commerce data changes quickly, but tracking those changes over time is not str
   Turning data analysis into clear, actionable stories
 </p>
 
-<div style="margin: 8px 0;">
+<div style="margin: 8px;">
   <a href="https://medium.com/@adrianjuliusaluoch">
     <img src="https://img.shields.io/badge/Medium-Read_My_Articles-black?logo=medium&logoColor=white" />
   </a>
