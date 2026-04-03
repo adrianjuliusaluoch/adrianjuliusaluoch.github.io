@@ -13,6 +13,10 @@ The problem is simple: families are struggling with rising food costs, and it’
 
 [![View on RPubs](https://img.shields.io/badge/RPubs-View_on_RPubs-276DC3?logo=r&logoColor=white)](https://rpubs.com/adrianjuliusaluoch/cost_of_foods_in_kenya)
 
+<a href="https://rpubs.com/adrianjuliusaluoch/cost_of_foods_in_kenya" target="_blank">
+  <img src="https://img.shields.io/badge/RPubs-View_on_RPubs-276DC3?logo=r&logoColor=white" alt="View on RPubs">
+</a>
+
 <center><img src="images/food.png"/></center>
 
 ---
