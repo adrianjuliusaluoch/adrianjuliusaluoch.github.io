@@ -107,7 +107,7 @@ E-commerce data changes quickly, but tracking those changes over time is not str
 <ul style="margin-top:4px;">
   <li><a href="https://medium.com/@adrianjuliusaluoch/what-are-kenyans-searching-and-actually-watching-online-36f3f16ce13c">What are Kenyans searching and actually watching online?</a></li>
   <li><a href="https://medium.com/@adrianjuliusaluoch/part-1-setting-the-stage-introducing-the-data-and-objectives-0840c54f0c66">How I Analyzed Armed Conflicts Using an End-to-End Data Pipeline</a></li>
-  <li><a href="[https://medium.com/@adrianjuliusaluoch/part-1-setting-the-stage-introducing-the-data-and-objectives-0840c54f0c66](https://medium.com/@adrianjuliusaluoch/they-had-names-nobody-came-back-04cd9bfb3bbb)">What unclaimed bodies at KNH quietly reveal about grief, cost, and a problem growing in plain sight</a></li>
+  <li><a href="https://medium.com/@adrianjuliusaluoch/they-had-names-nobody-came-back-04cd9bfb3bbb">What unclaimed bodies at KNH quietly reveal about grief, cost, and a problem growing in plain sight</a></li>
 </ul>
 
 ---
