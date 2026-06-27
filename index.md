@@ -47,54 +47,6 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
 
 ---
 
-<h2 style="margin-bottom: 0;">Data Pipelines</h2>
-<p style="margin-top: 3px; font-size: 14px; color: #666;">
-  Building reliable data flows for tracking prices, listings, and consumer behavior
-</p>
-
-<h3 style="margin-bottom: 8px;">
-  Tracking Price Trends Across Markets
-</h3>
-
-Market price data is only useful if it’s consistent and up to date. To solve this, I set up an automated pipeline that continuously collects, processes, and stores agricultural market data in BigQuery. With over 17,000 scheduled runs, the system provides a reliable foundation for tracking price trends across regions over time.
-
-<a href="https://www.kaggle.com/datasets/adrianjuliusaluoch/market-prices" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-View_Dataset-blue?logo=kaggle" alt="View Dataset on Kaggle">
-</a>
-
-<center><img src="images/kamis.png"/></center>
-
----
-
-<h3 style="margin-bottom: 8px;">
-  Tracking Housing Prices Across Kenyan Cities
-</h3>
-
-Understanding Kenya’s housing market requires consistent and structured data, which is not always readily available. To address this, I built a scheduled scraping pipeline using Kaggle notebooks to collect property listings from Property24 across Nairobi and Mombasa, enabling analysis of pricing patterns and location-based differences in the market.
-
-<a href="https://www.kaggle.com/datasets/adrianjuliusaluoch/real-estate-property-listings-in-kenya" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-View_Dataset-blue?logo=kaggle" alt="View Dataset on Kaggle">
-</a>
-
-<center><img src="images/property.png"/></center>
-
----
-<h3 style="margin-bottom: 8px;">
-  Tracking Product Prices and Customer Sentiment
-</h3>
-
-E-commerce data changes quickly, but tracking those changes over time is not straightforward. To solve this, I developed an asynchronous scraping pipeline that collects product data from Jumia at scale, storing it in PostgreSQL with logic to capture only meaningful updates in prices, discounts, and availability. To better understand customer behavior, I extended the pipeline to also collect product reviews — including ratings, text, and timestamps — making it possible to connect pricing decisions with customer feedback and sentiment over time.
-
-<a href="https://www.kaggle.com/datasets/adrianjuliusaluoch/jumia-product-prices-and-customer-reviews" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-View_Dataset-blue?logo=kaggle" alt="View Dataset on Kaggle">
-</a>
-
-<center>
-  <img src="images/jumia.png" style="margin-top: 5px; margin-bottom: 10px;">
-</center>
-
----
-
 <h2 style="margin-bottom: 0;">Writing</h2>
 <p style="margin-top: 3px; font-size: 14px; color: #666;">
   Turning data analysis into clear, actionable stories
