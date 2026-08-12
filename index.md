@@ -29,7 +29,7 @@ Maize is a staple food in Kenya, forming the foundation of daily meals for milli
   <img src="https://img.shields.io/badge/RPubs-View_on_RPubs-276DC3?logo=r&logoColor=white" alt="View on RPubs">
 </a>
 
-<center><img src="images/maize.png"/></center>
+<center><img src="images/maize.png" style="max-height:250px; width:100%; object-fit:cover;"/></center>
 
 ---
 
@@ -43,7 +43,7 @@ Diammonium Phosphate (DAP) is the go-to fertilizer at planting. Farmers trust it
   <img src="https://img.shields.io/badge/RPubs-View_on_RPubs-276DC3?logo=r&logoColor=white" alt="View on RPubs">
 </a>
 
-<center><img src="images/fertilizer.png"></center>
+<center><img src="images/fertilizer.png" style="max-height:250px; width:100%; object-fit:cover;"/></center>
 
 ---
 
