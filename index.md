@@ -15,7 +15,7 @@ The problem is simple: families are struggling with rising food costs, and it’
   <img src="https://img.shields.io/badge/RPubs-View_on_RPubs-276DC3?logo=r&logoColor=white" alt="View on RPubs">
 </a>
 
-<center><img src="images/food.png" style="max-height:300px; width:100%; object-fit:cover;"/></center>
+<center><img src="images/food.png" style="max-height:250px; width:100%; object-fit:cover;"/></center>
 
 ---
 
